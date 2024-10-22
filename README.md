@@ -1,4 +1,9 @@
 ## Hi there 👋
+just starting i guess.
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@wonmaster/30-nites-of-code)  
+  ![@wonmaster #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wonmaster)
 
 <!--
 **wonmaster/wonmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

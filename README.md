@@ -1,21 +1,36 @@
-## Hi there 👋
-just starting i guess.
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@wonmaster/30-nites-of-code)  
-  ![@wonmaster #30NitesOfCode](https://www.codedex.io/api/petStatus?user=wonmaster)
+just starting i guess, soooo let's go
 
-<!--
-**wonmaster/wonmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile!
 
-Here are some ideas to get you started:
+## About Me
+Hello! I'm **Mahfoud**. I am passionate about data, development,open-source, and continuous learning. I enjoy working on challenging projects and collaborating with the community to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my skills on js.
+- 🌱 I’m currently learning web dev and data eng
+- 😄 Pronouns: 3amou
 -->
+
+## Skills
+- **Languages**: JavaScript, Python, Java, SQL.
+- **Web Development**: HTML, CSS, angular, Node.js, Express
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Cloud**: Azure, Snowflakes
+- **Others**: Git, GitHub Actions, Agile Methodologies
+
+## Projects
+Here are some of the projects I've worked on:
+- [Tetris 1](https://github.com/wonmaster/js-tetris): Currently working on it it's a basic tetris game to practice web dev  using native js and html/css
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmaster&show_icons=true&theme=radical)
+
+## Contact Me
+Feel free to reach out to me:
+- [Email](mailto:mahfoud.merzoug@protonmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mahfoud-merzoug)
+
+
+Thank you for visiting my profile! 😊
+
+

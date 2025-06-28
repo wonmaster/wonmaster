@@ -20,8 +20,8 @@ Hello! I'm **Mahfoud**. I am passionate about data, development,open-source, and
 
 ## Projects
 Here are some of the projects I've worked on:
-- [Federated Learning and Medical Data Security with Flower and TensorFlow]:https://github.com/wonmaster/FLower-yalah
-- [Damerzoug store]:https://github.com/wonmaster/daMerzougStore 
+- [Federated Learning and Medical Data Security with Flower and TensorFlow](https://github.com/wonmaster/FLower-yalah)
+- [Damerzoug Store](https://github.com/wonmaster/daMerzougStore)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wonmaster&show_icons=true&theme=radical)
